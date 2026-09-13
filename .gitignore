@@ -1,0 +1,22 @@
+# Temporary captures
+*.png
+!assets/*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
